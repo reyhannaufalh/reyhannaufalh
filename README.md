@@ -1,3 +1,4 @@
+<img src="https://s3-cdn.cmlabs.co/page/2023/10/04/web-developer-pengertian-tugas-skill-dan-contohnya-295345.png" />
 <h1 align="center">Hi 👋, I'm Reyhan Naufal Hakim</h1>
 <h3 align="center">Junior Fullstack Web Developer and UI Designer</h3>
 
